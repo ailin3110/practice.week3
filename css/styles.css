@@ -1,0 +1,26 @@
+/* Obshie stili sayta */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header, nav, footer {
+    background: white;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+h1, h2 {
+    color: #b30089;
+}
+
+/* Adaptivnost (media query po trebovaniyam) */
+@media (max-width: 600px) {
+    body {
+        margin: 10px;
+        background-color: #e2e2e2;
+    }
+}
