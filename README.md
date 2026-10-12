@@ -13,4 +13,4 @@
 - Includes responsive behaviors via media queries.
 
 ## How to View
-Open `index.html` in a web browser.
+Open `(https://ailin3110.github.io/practice.week3/)` in a web browser.
